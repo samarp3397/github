@@ -4,7 +4,7 @@ user: "samarp3397"
 password: "Samarp@97"
 github_type: "online"
 web_url: "https://github.com/samarp3397"
-base_url: "https://github.com/samarp3397/github/edit/master/github.yaml"
+base_url: "https://github.com/samarp3397/github/blob/master/github.yaml"
 deployment_environment: "production"
 repository_sensor:
   event_type_whitelist:
