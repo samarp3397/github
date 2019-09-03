@@ -1,7 +1,7 @@
 ---
 token: "{{system.github_oauth_token}}"
 user: "samarp3397"
-password: "samarp@97"
+password: "Samarp@97"
 github_type: "online"
 web_url: "https://github.com/samarp3397"
 base_url: "https://github.com/samarp3397/github/edit/master/github.yaml"
