@@ -1,10 +1,10 @@
 ---
 token: "{{system.github_oauth_token}}"
-user: "Stanley"
-password: "P4ssw0rd"
+user: "samarp3397"
+password: "samarp@97"
 github_type: "online"
-web_url: "https://github.example.com"
-base_url: "https://github.example.com/api/v3"
+web_url: "https://github.com/samarp3397"
+base_url: "https://github.com/samarp3397/github/edit/master/github.yaml"
 deployment_environment: "production"
 repository_sensor:
   event_type_whitelist:
@@ -15,8 +15,6 @@ repository_sensor:
     - "ReleaseEvent"
     - "PushEvent"
   repositories:
-    - user: "StackStorm"
+    - user: "github"
       name: "st2"
-    - user: "StackStorm"
-      name: "st2contrib"
   count: 30  # Maximum number of old events to retrieve
